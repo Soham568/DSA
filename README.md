@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
 | [0238-product-of-array-except-self](https://github.com/Soham568/DSA/tree/master/0238-product-of-array-except-self) |
 | [3731-find-missing-elements](https://github.com/Soham568/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
