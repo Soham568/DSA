@@ -1,15 +1,15 @@
 class Solution {
     void uniqueSubsets(int[] arr,List<Integer> ds,int index,List<List<Integer>> ans){
-        if (index == arr.length) {
-            if (!ans.contains(ds)) {
-                ans.add(new ArrayList<>(ds));
+        ans.add(new ArrayList<>(ds));
+
+        for (int i = index; i < arr.length; i++) {
+            if (i>index && arr[i]==arr[i-1]) {
+                continue;
             }
-            return;
-        }
-        ds.add(arr[index]);
-        uniqueSubsets(arr, ds, index+1, ans);
-        ds.remove(ds.size()-1);
-        uniqueSubsets(arr, ds, index+1, ans);
+            ds.add(arr[i]);
+            uniqueSubsets(arr, ds, i+1, ans);
+            ds.remove(ds.size()-1);
+            }
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
