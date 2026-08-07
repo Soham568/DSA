@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3731-find-missing-elements](https://github.com/Soham568/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Soham568/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
