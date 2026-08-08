@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Soham568/DSA/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Soham568/DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Soham568/DSA/tree/master/0238-product-of-array-except-self) |
 | [3731-find-missing-elements](https://github.com/Soham568/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
