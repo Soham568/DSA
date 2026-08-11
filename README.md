@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Soham568/DSA/tree/master/0216-combination-sum-iii) |
 ## Array
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Soham568/DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Soham568/DSA/tree/master/0238-product-of-array-except-self) |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
