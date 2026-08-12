@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
+| [0434-number-of-segments-in-a-string](https://github.com/Soham568/DSA/tree/master/0434-number-of-segments-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
