@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
 | [0434-number-of-segments-in-a-string](https://github.com/Soham568/DSA/tree/master/0434-number-of-segments-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Soham568/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Soham568/DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Soham568/DSA/tree/master/0238-product-of-array-except-self) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soham568/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soham568/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Soham568/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -79,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Soham568/DSA/tree/master/0051-n-queens) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
