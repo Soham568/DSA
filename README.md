@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Soham568/DSA/tree/master/0051-n-queens) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Soham568/DSA/tree/master/0051-n-queens) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soham568/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Soham568/DSA/tree/master/3731-find-missing-elements) |
@@ -78,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Soham568/DSA/tree/master/0051-n-queens) |
 ## Trie
 |  |
@@ -95,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
