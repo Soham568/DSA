@@ -61,9 +61,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Soham568/DSA/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Soham568/DSA/tree/master/0231-power-of-two) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Soham568/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Soham568/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
