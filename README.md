@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Soham568/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Soham568/DSA/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Soham568/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Soham568/DSA/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soham568/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soham568/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Soham568/DSA/tree/master/3731-find-missing-elements) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Soham568/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Soham568/DSA/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham568/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soham568/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
