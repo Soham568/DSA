@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Soham568/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Soham568/DSA/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Soham568/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Soham568/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soham568/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soham568/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Soham568/DSA/tree/master/3731-find-missing-elements) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Soham568/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Soham568/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham568/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soham568/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Soham568/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
