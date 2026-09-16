@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Soham568/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Soham568/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/Soham568/DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Soham568/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Soham568/DSA/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soham568/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Soham568/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Soham568/DSA/tree/master/0231-power-of-two) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Soham568/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Soham568/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham568/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Soham568/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Soham568/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soham568/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -188,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Soham568/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Soham568/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
