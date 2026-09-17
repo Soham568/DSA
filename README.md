@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Soham568/DSA/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Soham568/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Soham568/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Soham568/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Soham568/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soham568/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Soham568/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/Soham568/DSA/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soham568/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Soham568/DSA/tree/master/3731-find-missing-elements) |
