@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Soham568/DSA/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Soham568/DSA/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Soham568/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Soham568/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soham568/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Soham568/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Soham568/DSA/tree/master/0216-combination-sum-iii) |
