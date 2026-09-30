@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Soham568/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Soham568/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Soham568/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Soham568/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Soham568/DSA/tree/master/0090-subsets-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Soham568/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Soham568/DSA/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Soham568/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soham568/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Soham568/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Soham568/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Soham568/DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
