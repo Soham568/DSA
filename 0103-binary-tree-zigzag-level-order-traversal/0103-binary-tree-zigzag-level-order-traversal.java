@@ -23,24 +23,19 @@ class Solution {
         int leftToRight = 1;
         while(!q.isEmpty()){
             int levelSize = q.size();
-            int[] temp = new int[levelSize];
-            int first = 0, last = levelSize - 1;
+            List<Integer> temp = new ArrayList<>();
             while(levelSize > 0){
                 TreeNode t = q.poll();
                 if(t.left != null) q.offer(t.left);
                 if(t.right != null) q.offer(t.right);
                 if(leftToRight == 1){
-                    temp[first]=t.val;
-                    first++;
+                    temp.add(t.val);
                 }else{
-                    temp[last] = t.val;
-                    last--;
+                    temp.add(0,t.val);
                 }
                 levelSize--;
             }
-            ans.add(Arrays.stream(temp)
-              .boxed()
-              .collect(Collectors.toList()));
+            ans.add(temp);
             leftToRight = 1 - leftToRight; 
         }
         return ans;
