@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soham568/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Soham568/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Soham568/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Soham568/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Soham568/DSA/tree/master/0079-word-search) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Soham568/DSA/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Soham568/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Soham568/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Soham568/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Soham568/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Soham568/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soham568/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
